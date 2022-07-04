@@ -19,7 +19,12 @@
 
 <div>
   <a href = "mailto:vanessajardim063013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanessa-basilio-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vanessa-basilio-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></>
+</div>
+    
+    
+<div>    
+  ![Snake animation](https://github.com/VanessaB063013/VanessaB063013/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
