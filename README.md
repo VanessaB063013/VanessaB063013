@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá! Eu sou a Vanessa Basilio
 
-<!--
-**VanessaB063013/VanessaB063013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Java | Spring Boot | MySQL
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/VanessaB063013/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaB063013&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/_>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaB063013&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="Vanessa-Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href = "mailto:vanessajardim063013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessa-basilio-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+ 
+
