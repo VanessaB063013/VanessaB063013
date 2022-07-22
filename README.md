@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vanessa Basilio
 
-- 🌱 Estudando Java | Spring Boot | MySQL
+- 🌱 Estudando Java | Spring Boot | MySQL | HTML | CSS
 - 😄 Pronouns: ela/dela
 
 <div align="center">
@@ -13,6 +13,9 @@
 <img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Vanessa-Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Vanessa-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+       
 </div>
 
 ##
