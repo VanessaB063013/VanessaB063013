@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vanessa Basilio
 
-- 🌱 Estudando Java | Spring Boot | MySQL | HTML | CSS
+- 🌱 Estudando Java | Spring Boot | MySQL | HTML | CSS | javascript |React
 - 😄 Pronouns: ela/dela
 
 <div align="center">
